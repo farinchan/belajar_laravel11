@@ -1,5 +1,5 @@
 
-<x-app-layout>
+<x-app-layout title='Posts'>
     <div class="container">
         <h1>Blog Posts</h1>
 
